@@ -1,0 +1,1 @@
+# SCALES Project Template
