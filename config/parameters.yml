@@ -1,0 +1,2 @@
+input_data: data/processed/clean_data.csv
+model_output: outputs/models/final_model.pkl

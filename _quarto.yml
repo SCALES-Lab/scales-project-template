@@ -1,0 +1,10 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "SCALES Lab Project"
+  author: "Your Name"
+  chapters:
+    - index.qmd
+    - manuscript.qmd
